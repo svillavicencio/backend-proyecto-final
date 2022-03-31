@@ -1,0 +1,5 @@
+kMT1dTfg3KvcoFXc password mongo
+dbUser user mongo
+
+mongodb+srv://dbUser:kMT1dTfg3KvcoFXc@cluster0.s0lgj.mongodb.net/test?retryWrites=true&w=majority
+
